@@ -1,4 +1,4 @@
-#** Hash-Analytics-Internship **
+# ** Hash-Analytics-Internship **
 ## The project aims to help a company control employee attrition. Two datasets was given: "Employees who left" and "Existing  employees (the ones who stayed). The variables below were given in the data:
 ### 1.    Satisfaction Level
 ### 2.    Last Evaluation
