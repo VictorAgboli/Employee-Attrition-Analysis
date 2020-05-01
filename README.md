@@ -4,7 +4,7 @@
 ### 2.    Last Evaluation
 ### 3.    Number of Projects
 ### 4.    Average monthly hours (worked)
-### 5.    Time spent in the company
+### 5.    Time spent in the company (years)
 ### 6.    Whether they have had promotion in the last 5 years
 ### 7.    Department
 ### 8.    Salary
