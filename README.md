@@ -1,6 +1,7 @@
 
 # **Introduction:**
 Employee Attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced. If the attrition becomes frequent, it poses a problem because;
+
     1. The HR team will spend more time and resources hiring and training new staff to fit into the company's culture. 
     2. Prospective employees will view the company in badlight, ranging from renumeration to work-life balance issues. 
 
