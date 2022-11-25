@@ -14,4 +14,9 @@
 ### 2.    Which employees of the company are prone to leaving next?
 ### 3.    Make recommendations to help curtail employee attrition.
 
+# **Insights from the Analysis**
+###1. What type of employees are leaving?
+
+
+
 ### The code file (notebook), Excel (xlsx) file and the final presentation are also given.
