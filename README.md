@@ -7,7 +7,7 @@ Employee Attrition is defined as the natural process by which employees leave th
 # **Problem statement:**
 This project deepdives into the attrition data of a company to understand reasons why employees leave, predict those who're prone to leave and come up with strategies to mitigate this problem.
 
-These variables were given in the data:
+### These variables were given in the data:
     1.    Satisfaction Level
     2.    Last Evaluation
     3.    Number of Projects
