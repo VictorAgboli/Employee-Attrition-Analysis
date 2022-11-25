@@ -1,10 +1,10 @@
 
-### Introduction:**
+### Introduction: **
 Employee Attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced. If the attrition becomes frequent, it poses a problem because;
     1. The HR team will spend more time and resources hiring and training new staff to fit into the company's culture. 
     2. Prospective employees will view the company in badlight, ranging from renumeration to work-life balance issues. 
 
-### Problem statement:**
+### Problem statement: **
 This project deepdives into the attrition data of a company to understand reasons why employees leave, predict those who're prone to leave and come up with strategies to mitigate this problem.
 
 These variables were given in the data:
@@ -38,7 +38,7 @@ These variables were given in the data:
     5. Those who had spent between 3-5 years in the company
     6. Those whose average monthly hours is below or above 130 - 275 hours
     
-# **Recommendations**
+# **Recommendations **
 1. Employees should be given 3-5 projects to avoid decrease in satisfaction level
 2. Faster promotions needs to be given to deserving employees
 3. The average monthly hours for the employees should be between 130-275 hours to avoid under and over utilization
