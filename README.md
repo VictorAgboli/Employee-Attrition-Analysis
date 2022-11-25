@@ -15,7 +15,13 @@
 ### 3.    Make recommendations to help curtail employee attrition.
 
 # **Insights from the Analysis**
-###1. What type of employees are leaving?
+### What type of employees are leaving?
+    1. Those who weren’t promoted in the last 5 years
+    2. Those whose are low to medium salary earners
+    3. Those who belonged to a department whose functions had to do with dealing with clients
+    4. Those who did too little or too much projects
+    5. Those who had spent between 2-4 years in the company
+    6. Those whose average monthly hours is below or above 175 - 225 hours
 
 
 
