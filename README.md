@@ -1,18 +1,25 @@
-# **Hash-Analytics-Internship**
-## The project aims to help a company control employee attrition. Two datasets was given: "Employees who left" and "Existing  employees (the ones who stayed). The variables below were given in the data:
-### 1.    Satisfaction Level
-### 2.    Last Evaluation
-### 3.    Number of Projects
-### 4.    Average monthly hours (worked)
-### 5.    Time spent in the company (years)
-### 6.    Whether they have had promotion in the last 5 years
-### 7.    Department
-### 8.    Salary
+
+### Introduction:**
+Employee Attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced. If the attrition becomes frequent, it poses a problem because;
+    1. The HR team will spend more time and resources hiring and training new staff to fit into the company's culture. 
+    2. Prospective employees will view the company in badlight, ranging from renumeration to work-life balance issues. 
+
+### Problem statement:**
+This project deepdives into the attrition data of a company to understand reasons why employees leave, predict those who're prone to leave and come up with strategies to mitigate this problem.
+
+These variables were given in the data:
+    1.    Satisfaction Level
+    2.    Last Evaluation
+    3.    Number of Projects
+    4.    Average monthly hours (worked)
+    5.    Time spent in the company (years)
+    6.    Whether they have had promotion in the last 5 years
+    7.    Department
+    8.    Salary
 
 ### The following questions were answered by the project:
-### 1.    What type of employees are leaving the company?
-### 2.    Which employees of the company are prone to leaving next?
-### 3.    Make recommendations to help curtail employee attrition.
+    1.    What type of employees are leaving the company?
+    2.    Which employees of the company are prone to leaving next?
 
 # **Insights from the Analysis**
 ### What type of employees are leaving?
